@@ -2,5 +2,5 @@
 
 References Websites:
 
--UVA: https://onlinejudge.org/
--URI: https://www.urionlinejudge.com.br/
+-UVA: https://onlinejudge.org/ <br/>
+-URI: https://www.urionlinejudge.com.br/ <br/>
